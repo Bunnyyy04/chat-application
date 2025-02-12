@@ -1,9 +1,9 @@
 # chat-application
-name :PATARLAPALLI BHAVANI SHANKAR
+Name :PATARLAPALLI BHAVANI SHANKAR
 
-company : CODTECH IT SOLUTIONS 
+Company : CODTECH IT SOLUTIONS 
 
-id : CTO8HST
+Id : CTO8HST
 
 Domain : full stack web development 
 
